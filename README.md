@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-ece30862-homework-14-node-class
+<br>
+Create a Java generic for a <em>Node</em> class. The skeleton for some functions is provided, but for others it is not.  Make this a template so that it works with main.cpp.  In main.cpp, use the comparison functions to do insertions in the linked list that put the list into ascending order.  I’ve marked the loops in main.cpp that need to be changed.
